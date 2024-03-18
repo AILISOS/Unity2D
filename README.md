@@ -1,2 +1,2 @@
 
-### A simple 2D game consits of 2 levels, built with Unity Game Engine, .NET Framework. 
+### 2D Platformer game consits of 2 levels, built with Unity Game Engine, .NET Framework. 
